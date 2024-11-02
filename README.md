@@ -1,0 +1,1 @@
+Um algoritmo que calcula a media de notas de um aluno, se o aluno atingir a meta nas três notas fornecidas o sistema infoma que ele foi aprovado caso contrario o sistema informa que ele foi reprovado. 
